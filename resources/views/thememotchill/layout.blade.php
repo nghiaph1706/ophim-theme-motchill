@@ -37,7 +37,7 @@
 
 @push('header')
     <link rel="stylesheet" type="text/css" href="/themes/motchill/css/owl.carousel.css" />
-    <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,500" rel="stylesheet" type="text/css">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Roboto:400,300,500" rel="stylesheet" type="text/css">
     <link rel="stylesheet" type="text/css" href="/themes/motchill/css/font-face.css?v=1.3.1" />
     <link rel="stylesheet" type="text/css" href="/themes/motchill/css/font-awesome.css" />
     <link rel="stylesheet" type="text/css" href="/themes/motchill/css/bootstrap.min.css" />
